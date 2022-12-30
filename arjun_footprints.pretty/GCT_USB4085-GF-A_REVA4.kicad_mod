@@ -51,7 +51,7 @@
   (pad "S2" thru_hole oval (at 4.325 0) (size 0.9 1.7) (drill oval 0.6 1.4) (layers *.Cu *.Mask) (tstamp 0ddacf2b-8ed8-4485-aa07-53f535a253ab))
   (pad "S3" thru_hole oval (at -4.325 -3.38) (size 0.9 2.4) (drill oval 0.6 2.1) (layers *.Cu *.Mask) (tstamp a2cab9d7-ecf6-4041-8d45-98d9fd1c61cc))
   (pad "S4" thru_hole oval (at 4.325 -3.38) (size 0.9 2.4) (drill oval 0.6 2.1) (layers *.Cu *.Mask) (tstamp 30a911c8-5288-45a2-ab85-92e6f778a796))
-  (model "${KIPRJMOD}/../arjun_kicad_library/3D/USB4085-GF-A_REVA4.step"
+  (model "${KIPRJMOD}/../../arjun_kicad_library/3D/USB4085-GF-A_REVA4.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
