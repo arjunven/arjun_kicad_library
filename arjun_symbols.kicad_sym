@@ -2694,7 +2694,7 @@
     (property "Footprint" "arjun_footprints:DIO_SOT-23" (id 2) (at 30.48 2.54 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
-    (property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP2127.pdf" (id 3) (at 30.48 -12.7 0)
+    (property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP2120.pdf" (id 3) (at 30.48 -12.7 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Manufacturer" "Diodes Incorporated" (id 4) (at 30.48 -5.08 0)
