@@ -3085,7 +3085,7 @@
     (property "Footprint" "arjun_footprints:IND_VLS5045EX-3R3N" (id 2) (at 17.78 7.62 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Datasheet" "https://ds.yuden.co.jp/TYCOMPAS/or/detail?pn=LSXND5050YKL220MMG&u=M" (id 3) (at 17.145 2.54 0)
+    (property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_power_vls5045ex_en.pdf" (id 3) (at 17.145 2.54 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Vendor" "Digi-Key" (id 4) (at 17.145 -1.27 0)
