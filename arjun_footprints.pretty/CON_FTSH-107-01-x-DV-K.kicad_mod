@@ -46,7 +46,7 @@
   (pad "12" smd roundrect (at 2.54 -2.035) (size 0.74 2.79) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp e01bd086-ebbc-48dd-a60b-6966a01f48c7))
   (pad "13" smd roundrect (at 3.81 2.035) (size 0.74 2.79) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp 4d6cee8e-56a9-4d37-910c-10c10d8918dc))
   (pad "14" smd roundrect (at 3.81 -2.035) (size 0.74 2.79) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp c840a102-f771-4025-a32e-a426d64197a6))
-  (model "${KIPRJMOD}/../../arjun_kicad_library/3D/FTSH-107-01-L-DV-K-TR.stp"
+  (model ":arjun_lib:FTSH-107-01-L-DV-K-TR.stp"
     (offset (xyz 0 0 0.4))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

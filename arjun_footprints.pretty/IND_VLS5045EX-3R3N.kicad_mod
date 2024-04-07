@@ -32,7 +32,7 @@
     (solder_mask_margin 0.102) (tstamp 2e3af67c-44d4-424e-a52f-86baae633a52))
   (pad "2" smd rect (at 1.8 0) (size 1.5 4) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.102) (tstamp ae993f44-d518-434f-af99-2af665a83ab2))
-  (model "${KIPRJMOD}/../../arjun_kicad_library/3D/VLS5045EX-3R3N.step"
+  (model ":arjun_lib:VLS5045EX-3R3N.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
