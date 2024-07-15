@@ -1,4 +1,4 @@
-(footprint "DIO_SOT-23" (version 20211014) (generator pcbnew)
+(footprint "SOT-23_ONSEMI" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5FA16958)
   (descr "SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
@@ -29,9 +29,9 @@
   (fp_line (start -0.65 -1.125) (end -0.325 -1.45) (layer "F.Fab") (width 0.1) (tstamp 870f472e-8d36-481b-aea6-6e543ac19292))
   (fp_line (start 0.65 1.45) (end -0.65 1.45) (layer "F.Fab") (width 0.1) (tstamp 960759d9-294d-49cb-80d8-737278337712))
   (fp_line (start -0.325 -1.45) (end 0.65 -1.45) (layer "F.Fab") (width 0.1) (tstamp cc96d31c-e9af-4b8f-a36c-1c99e1391fa5))
-  (pad "1" smd rect (at -1 -0.95) (size 0.9 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 81d9e34a-f8bf-4c3e-b270-b92cb8654702))
-  (pad "2" smd roundrect (at -1 0.95) (size 0.9 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 91b69a54-9edf-44a0-b463-b58b9d10d58f))
-  (pad "3" smd roundrect (at 1 0) (size 0.9 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 2cb16931-6c72-4466-bc5c-2507038e3f7e))
+  (pad "1" smd rect (at -0.975 -0.95) (size 0.95 0.56) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 81d9e34a-f8bf-4c3e-b270-b92cb8654702))
+  (pad "2" smd roundrect (at -0.975 0.95) (size 0.95 0.56) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 91b69a54-9edf-44a0-b463-b58b9d10d58f))
+  (pad "3" smd roundrect (at 0.975 0) (size 0.95 0.56) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 2cb16931-6c72-4466-bc5c-2507038e3f7e))
   (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
