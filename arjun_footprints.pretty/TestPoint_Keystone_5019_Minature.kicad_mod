@@ -8,7 +8,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 7f1fa587-ca68-4f8c-83ac-742a41459d01)
   )
-  (fp_text value "TestPoint_Keystone_5019_Minature" (at 0 2.25) (layer "F.SilkS")
+  (fp_text value "TestPoint_Keystone_5019_Minature" (at 0 2.25) (layer "F.Fab") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 411b5da2-28f0-4851-aa82-e12ba7994e2d)
   )

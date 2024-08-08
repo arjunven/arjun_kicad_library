@@ -203,4 +203,9 @@
   (pad "14" smd rect (at 2.87655 -0.974999) (size 1.3589 0.3556) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 21e4bef9-470f-468c-ad73-ae55bc12ffd5))
   (pad "15" smd rect (at 2.87655 -1.624998) (size 1.3589 0.3556) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8c8d4448-0343-4e4f-ab00-5cc7224a5230))
   (pad "16" smd rect (at 2.87655 -2.274999) (size 1.3589 0.3556) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 841a560d-4580-4c18-9cf6-bff6708cfa88))
+  (model ":arjun_lib:TSSOP-16_ONS.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
