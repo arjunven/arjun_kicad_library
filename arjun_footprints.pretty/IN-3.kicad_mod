@@ -85,6 +85,17 @@
 		(layer "F.SilkS")
 		(uuid "57c850b6-e3e2-4810-b957-9b160e587bd6")
 	)
+	(fp_circle
+		(center 0 0)
+		(end 3.5 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "be231bce-0cd2-484d-8cb4-b0957414afce")
+	)
 	(fp_text user "K"
 		(at 1.524 -1.651 0)
 		(unlocked yes)
