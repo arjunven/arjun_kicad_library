@@ -2287,7 +2287,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_2220_5650Metric"
+		(property "Footprint" "Capacitor_SMD:C_2220_5750Metric"
 			(at 7.62 2.54 0)
 			(effects
 				(font
