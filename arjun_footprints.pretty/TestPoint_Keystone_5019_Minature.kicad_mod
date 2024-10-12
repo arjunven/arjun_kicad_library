@@ -305,9 +305,9 @@
 		(layer "F.Fab")
 		(uuid "cf3b6371-83f7-4e1c-a74c-7804aff8a682")
 	)
-	(fp_text user "${REFERENCE}"
-		(at 0 0 0)
-		(layer "F.Fab")
+	(fp_text user "${VALUE}"
+		(at 0.2 2.5 0)
+		(layer "F.SilkS")
 		(uuid "b976a935-1066-4888-a015-59ec4606e3f5")
 		(effects
 			(font
